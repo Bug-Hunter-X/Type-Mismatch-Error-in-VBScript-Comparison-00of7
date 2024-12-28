@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript caused by its loose typing system. The script attempts to compare a number with a string, resulting in a runtime error.  The solution shows how to explicitly check data types before performing comparisons.
